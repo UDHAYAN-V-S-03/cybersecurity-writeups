@@ -49,7 +49,7 @@ Navigating to one of the playlist links loads the page via `/?page=relax.php`:
 http://<TARGET_IP>/?page=relax.php
 ```
 
-This parameter structure suggests the application may be vulnerable to Local File Inclusion (LFI).
+The `page` parameter may be vulnerable to Local File Inclusion (LFI).
 
 ---
 
@@ -61,7 +61,7 @@ Attempting direct file inclusion using an absolute path (`/etc/passwd`):
 http://<TARGET_IP>/?page=/etc/passwd
 ```
 
-The application detects the attempt and returns a security warning:
+The application has basic input filtering against absolute paths.
 
 
 ![Filter Triggered](images/03-LFI-basic.png)

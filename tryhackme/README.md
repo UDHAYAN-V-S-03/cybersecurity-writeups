@@ -12,6 +12,7 @@ Hands-on cybersecurity writeups from **[TryHackMe](https://tryhackme.com/)**, do
 | Name | Type | Difficulty | Access | Lab |
 | ---- | ---- | ---------- | ------ | --- |
 | [TakeOver](takeover/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/takeover) |
+| [Neighbour](neighbour/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/neighbour) |
 
 ---
 

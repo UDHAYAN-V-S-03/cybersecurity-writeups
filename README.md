@@ -3,7 +3,7 @@
 Documented cybersecurity labs, challenges, CTFs, and practical security research based on my hands-on experiences.
 
 > [!NOTE]
-> This repository is actively maintained and regularly updated as I complete new labs, challenges, and security research.
+> Flags, credentials, and sensitive data are redacted.
 
 ---
 
@@ -11,16 +11,15 @@ Documented cybersecurity labs, challenges, CTFs, and practical security research
 
 Practical offensive and defensive security exercises across various platforms and environments:
 
-- TryHackMe  
+- [TryHackMe](tryhackme/README.md)  
 - Hack The Box  
 - PortSwigger Web Security Academy  
 - DVWA  
 - OWASP Juice Shop  
 
-## 📌 Progress - Under Constructions 🚧
+## 📌 Progress - Under Construction 🚧
 
 This repository is continuously updated as I work through cybersecurity labs, challenges, CTFs, and practical security research.
-
 
 ---
 
@@ -28,7 +27,7 @@ This repository is continuously updated as I work through cybersecurity labs, ch
 
 ```text
 cybersecurity-writeups/
-├── tryhackme/       # TryHackMe walkthroughs and notes
+├── tryhackme/       # TryHackMe walkthroughs
 └── ...              # Additional platforms will be added as writeups are published
 ```
 

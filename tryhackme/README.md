@@ -13,6 +13,7 @@ Hands-on cybersecurity writeups from **[TryHackMe](https://tryhackme.com/)**, do
 | ---- | ---- | ---------- | ------ | --- |
 | [TakeOver](takeover/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/takeover) |
 | [Neighbour](neighbour/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/neighbour) |
+| [Lo-Fi](lo-fi/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/lofi) |
 
 ---
 

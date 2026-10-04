@@ -17,5 +17,6 @@ Hands-on cybersecurity writeups from **[TryHackMe](https://tryhackme.com/)**, do
 | [Corridor](corridor/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/corridor) |
 | [MD2PDF](md2pdf/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/md2pdf) |
 | [Agent T](agent-t/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/agentt) |
+| [CyberHeroes](cyberheroes/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/cyberheroes) |
 ---
 

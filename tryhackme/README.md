@@ -21,5 +21,6 @@ Hands-on cybersecurity writeups from **[TryHackMe](https://tryhackme.com/)**, do
 | [DigDug](digdug/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/digdug) |
 | [Fools Mate](foolsmate/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/foolsmate) |
 | [TryHeartMe](tryheartme/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/lafb2026e5) |
+| [Pickle Rick](picklerick/README.md) | Challenge | Easy | Free | [TryHackMe](https://tryhackme.com/room/picklerick) |
 ---
 
